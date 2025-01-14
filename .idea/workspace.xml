@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae9c9fe-faf7-4a95-8863-f2781d1100d0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3ae9c9fe-faf7-4a95-8863-f2781d1100d0" name="Changes" comment="made changes~prob values">
+      <change beforePath="$PROJECT_DIR$/martingale/martingale.py" beforeDir="false" afterPath="$PROJECT_DIR$/martingale/martingale.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mexez"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mexez/ML4T_2025.git",
+    "accountId": "c1fefe10-0ca3-4a5f-a544-271f58516759"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -60,12 +72,25 @@
       <option name="presentableId" value="Default" />
       <updated>1736822728893</updated>
       <workItem from="1736823497062" duration="372000" />
-      <workItem from="1736823901021" duration="1297000" />
+      <workItem from="1736823901021" duration="1697000" />
     </task>
+    <task id="LOCAL-00001" summary="made changes~prob values">
+      <option name="closed" value="true" />
+      <created>1736825805459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736825805459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="made changes~prob values" />
+    <option name="LAST_COMMIT_MESSAGE" value="made changes~prob values" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ML4T_Spring2025$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1736824128633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assess_portfolio" />
